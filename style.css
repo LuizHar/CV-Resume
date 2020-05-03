@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding:0;
+    border: none;
+}
+
+.header img{
+    height: 200px;
+    padding: 40px;
+}
+
+h1{
+    position: absolute;
+    top: 40;
+    left: 500px;
+    font-weight: bold;
+    text-decoration: underline;
+    color:#000;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3;
+}
+
+.name{
+    position: absolute;
+    top: 80px;
+    left: 570px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.status{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    top: 100px;
+    left: 500px;
+    font-weight: bold;
+}
+
+.contacts{
+    position: absolute;
+    margin-top: 20px;
+    top:120px;
+    left: 480px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.looking-for{
+    position: absolute;
+    margin-top: 20px;
+    top:140px;
+    left: 550px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.header{
+    border-bottom: rgba(0,0,0,0.6) solid;
+}
+
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.table tr,td{
+    padding: 0 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    
+}
+
+.table tr,td{
+    width: 900px;
+}
+
+.table{
+    border-bottom: rgba(0,0,0,0.6) solid;
+}
